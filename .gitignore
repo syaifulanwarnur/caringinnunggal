@@ -1,0 +1,23 @@
+# Dependency
+vendor/
+
+# Upload
+uploads/
+
+# Cache
+application/cache/*
+!application/cache/index.html
+
+# Logs
+application/logs/*
+!application/logs/index.html
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
