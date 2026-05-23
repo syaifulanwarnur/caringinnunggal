@@ -226,14 +226,16 @@
 
 .home-flexslider{
     margin-bottom:30px;
-    border:0;
+    border:3px solid #454343ff;
     box-shadow:none;
+    border-radius: 5px;
 }
 
 .home-flexslider img{
     width:100%;
     height:500px;
     object-fit:cover;
+    border-radius: 2px;
 }
 
 .slider-item{
